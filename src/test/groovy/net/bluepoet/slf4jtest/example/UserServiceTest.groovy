@@ -7,7 +7,7 @@ import uk.org.lidalia.slf4jtest.TestLogger
 import uk.org.lidalia.slf4jtest.TestLoggerFactory
 
 /**
- * Created by poet.me on 2017. 9. 14..
+ * Created by bluepoet on 2017. 10. 02..
  */
 class UserServiceTest extends Specification {
     TestLogger logger = TestLoggerFactory.getTestLogger(UserService.class)
